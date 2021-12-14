@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.Ayuda"
+             Icon="ayuda.png">
+    <ContentPage.Content>
+        <StackLayout Padding="50">
+            <Label Text="Ayuda" FontSize="Title" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+
+            <Label Text="Si deseas obtener mas informacion sobre el cancer de la piel y el tratamiento a seguir podes hacer clic aca"
+                    FontSize="Body"></Label>
+            <Button Text="Ver informacion" Clicked="Button_Clicked"
+                    VerticalOptions="Center"
+                TextColor="White"
+                BackgroundColor="Blue"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                    Margin="40"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

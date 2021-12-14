@@ -1,0 +1,54 @@
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Login.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ref\ProyectoFinal.dll
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MenuPrincipal.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\PaginaRegistro.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\AutoExamen.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Ayuda.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Camara.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\CentrosMedicos.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Home.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Mensaje.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Perfil.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Salir.xaml.g.cs
+D:\Ulacit\Lenguaje C#\Proyecto\Proyecto Final\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\VerDictamen.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\AutoExamen.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Ayuda.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Camara.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\CentrosMedicos.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Mensaje.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MenuPrincipal.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\PaginaRegistro.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Perfil.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Salir.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\VerDictamen.xaml.g.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\Users\Alexander Castro\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.PaginaRegistro">
+    <ContentPage.Content>
+        <ScrollView HeightRequest="4000">
+            <StackLayout Padding="40"  HorizontalOptions="FillAndExpand">
+
+                <Label Text="Registro" FontSize="Title" FontAttributes="Bold"></Label>
+                <Label Text="Datos de acceso" FontSize="Subtitle" FontAttributes="Bold" HorizontalTextAlignment="Center"></Label>
+
+                <Entry x:Name="txtUsername" Placeholder="Username" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+                <Entry x:Name="txtPassword" Placeholder="Password" IsPassword="True" TextColor="Black" PlaceholderColor="Gray"></Entry>
+                <Entry x:Name="txtNombre" Placeholder="Nombre Completo" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+                <Entry x:Name="txtCorreo" Placeholder="Correo" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+
+
+                <Label Text="Datos basicos" FontSize="Subtitle" FontAttributes="Bold" HorizontalTextAlignment="Center"></Label>
+                <Entry x:Name="txtEdad" Placeholder="Edad" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+                <Entry x:Name="txtGenero" Placeholder="Genero" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+                <Entry x:Name="txtOrigenEtnico" Placeholder="Origen Etnico" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+                <Entry x:Name="txtColorPiel" Placeholder="Color de Piel" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+                <Entry x:Name="txtMarcasNacimiento" Placeholder="Marcas de Naciemiento" TextColor="Black" PlaceholderColor="Gray" ></Entry>
+                <Label Text="Posee Historial Medico de cancer con familiares?" FontSize="Title" FontAttributes="Bold"></Label>
+                <Grid>
+                    <Label Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="Si" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="1" Grid.Column="2" VerticalOptions="Center" x:Name="chkHistYes" ></CheckBox>
+                    <Label Grid.Row="2" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="No" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="2" Grid.Column="2" x:Name="chkHistNo"></CheckBox>
+                </Grid>
+
+                <Label Text="Ha sido diagnosticado con alguna afeccion de la piel?" FontSize="Title" FontAttributes="Bold"></Label>
+                <Grid>
+                    <Label Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="Si" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="1" Grid.Column="2" VerticalOptions="Center" x:Name="chkAfecYes"></CheckBox>
+                    <Label Grid.Row="2" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="No" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="2" Grid.Column="2" VerticalOptions="Center" x:Name="chkAfecNo"></CheckBox>
+                </Grid>
+    
+                <Label Text="Recibe algun tratamiento?" FontSize="Title" FontAttributes="Bold"></Label>
+                <Grid>
+                    <Label Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="Si" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="1" Grid.Column="2" VerticalOptions="Center" x:Name="chkTratYes"></CheckBox>
+                    <Label Grid.Row="2" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="No" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="2" Grid.Column="2" VerticalOptions="Center" x:Name="chkTratNo"></CheckBox>
+                </Grid>
+                
+                <Label Text="Posee piel palida?" FontSize="Title" FontAttributes="Bold"></Label>
+                <Grid>
+                    <Label Grid.Row="1" Grid.Column="1" HorizontalOptions="Center"  Text="Si" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="1" Grid.Column="2" x:Name="chkPielYes"></CheckBox>
+                    <Label Grid.Row="2" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="No" FontSize="Title" FontAttributes="Bold"></Label>
+                    <CheckBox Grid.Row="2" Grid.Column="2" VerticalOptions="Center" x:Name="chkPielNo"></CheckBox>
+                </Grid>
+               
+                <Button
+                VerticalOptions="Center"
+                Text="Siguiente"
+                TextColor="White"
+                BackgroundColor="Blue"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Clicked"
+                    x:Name="btnRegistrar"
+                ></Button>
+
+            </StackLayout>
+        </ScrollView>
+        
+    </ContentPage.Content>
+</ContentPage>

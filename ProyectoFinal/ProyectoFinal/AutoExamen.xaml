@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.AutoExamen"
+             Icon="autoexamen.png">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Auto Examen" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+            
+            <Label Text="'¿Hace cuánto notó la lesión? Digite cantidad de semanas" />
+            <Entry Keyboard="Numeric" x:Name="lblSemanas"></Entry>
+            <Label Text="Nivel de cambio en el tamaño de la lesión, considerando la cantidad de veces más grande (de 0 a 10)"/>
+            <Entry Keyboard="Numeric" x:Name="lblTamañoLesion"></Entry>
+            <Label Text=" ¿Ha notado hinchazón en la zona de la lesión?"/>
+            <Switch IsEnabled="True" x:Name="swHinchazon"></Switch>
+            <Label Text=" ¿Si ha notado un aumento de temperatura en la zona de la lesión?"/>
+            <Switch IsEnabled="True" x:Name="swTemperatura"></Switch>
+            <Label Text=" ¿Si ha notado un enrojecimiento en la zona de la lesión?"/>
+            <Switch IsEnabled="True" x:Name="lblEnrojecimiento"></Switch>
+            <Label Text=" ¿Si ha notado un cambio en la textura de la lesión?"/>
+            <Switch IsEnabled="True" x:Name="swTextura"></Switch>
+            <Label Text=" ¿Si ha notado un cambio en el color de la lesión?. si es así, indicar el color original y el color al que cambió" />
+            <Entry Keyboard="Text" x:Name="lblColor"></Entry>
+            <Button Text="Enviar" x:Name="btnEnviar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

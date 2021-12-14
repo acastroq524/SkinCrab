@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.Perfil"
+             Icon="perfil.png">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="logo.png" WidthRequest="180" HeightRequest="180" ></Image>
+            <StackLayout BackgroundColor="AliceBlue" Padding="20">
+                <Label Text="User Information" FontSize="Title" FontAttributes="Bold"></Label>
+                <Grid>
+                    <Label Grid.Row="1" Grid.Column="0" Text="Nombre" HorizontalTextAlignment="Start" FontSize="Medium"></Label>
+                    <Label Grid.Row="1" Grid.Column="1" Text="Apellido" HorizontalTextAlignment="Start" FontSize="Medium"></Label>
+                    <Label Grid.Row="2" Grid.Column="0" Text="Usuario1" HorizontalTextAlignment="Start"></Label>
+                    <Label Grid.Row="2" Grid.Column="1" Text="Usuario2" HorizontalTextAlignment="Start"></Label>
+                    
+
+                    <Label Grid.Row="3" Grid.Column="0" Text="Correo" HorizontalTextAlignment="Start" FontSize="Medium" Margin="10"></Label>
+                    <Label Grid.Row="4" Grid.Column="0" Text="Usuario2@correo.com" HorizontalTextAlignment="Start"></Label>
+
+                    <Label Grid.Row="5" Grid.Column="0" Text="Genero" HorizontalTextAlignment="Start" FontSize="Medium"></Label>
+                    <Label Grid.Row="5" Grid.Column="1" Text="Telefono" HorizontalTextAlignment="Start" FontSize="Medium"></Label>
+                    <Label Grid.Row="6" Grid.Column="0" Text="Masculino" HorizontalTextAlignment="Start"></Label>
+                    <Label Grid.Row="6" Grid.Column="1" Text="22222222" HorizontalTextAlignment="Start"></Label>
+                </Grid>
+                <Label Text="Direccion" FontSize="Title" FontAttributes="Bold"></Label>
+                <Label Text="Costa Rica" FontSize="Medium"></Label>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
